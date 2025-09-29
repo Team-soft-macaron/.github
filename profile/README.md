@@ -13,9 +13,10 @@ WellMeet은  LLM API와 벡터 데이터베이스를 결합한 AI 검색으로 �
 ### 시스템 구성도
 
 ### 주요 기능
+<div style="display: flex;">
 <img width="300px" src="./assets/home.png">
 <img width="300px" src="./assets/chat.png">
-
+</div>
 
 ### 개발 환경
 
